@@ -1,1 +1,1 @@
-# codigos-das-aulas-IF
+# Exercicios Sequêquencias e seleção IF
